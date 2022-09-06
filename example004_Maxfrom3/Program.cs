@@ -1,8 +1,8 @@
-﻿Console.WriteLine("Введите натуральное число A");
+﻿Console.WriteLine("Введите целое число A");
 int A = Convert.ToInt32 (Console.ReadLine());
-Console.WriteLine("Введите натуральное число B");
+Console.WriteLine("Введите целое число B");
 int B = Convert.ToInt32 (Console.ReadLine());
-Console.WriteLine("Введите натуральное число C");
+Console.WriteLine("Введите целое число C");
 int C = Convert.ToInt32 (Console.ReadLine());
 
 int max = A;
